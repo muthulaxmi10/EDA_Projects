@@ -135,5 +135,21 @@ Your project includes:
 ---
 
 ## 📂 Folder Structure
+## 📂 Project Files
+
+| File / Folder | Description |
+|---------------|-------------|
+| `data/student_mental_health.csv` | Original dataset containing 100,000 student records |
+| `notebook/Student_Mental_Health_Analysis.ipynb` | Jupyter notebook with complete EDA and visualizations |
+| `visuals/` | Folder containing all generated charts and plots |
+| `README.md` | Project documentation |
+| `requirements.txt` | Python dependencies required to run the project |
+
+## 👤 Author
+Name: Muthulaxmi Lakhani  
+Role: Data Analysis / Student Project  
+Project: Student Mental Health Analysis  
+Tools: Python, Pandas, Matplotlib, Seaborn  
+
 
 
