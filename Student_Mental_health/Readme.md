@@ -143,7 +143,7 @@ Your project includes:
 | `notebook/Student_Mental_Health_Analysis.ipynb` | Jupyter notebook with complete EDA and visualizations |
 | `visuals/` | Folder containing all generated charts and plots |
 | `README.md` | Project documentation |
-| `requirements.txt` | Python dependencies required to run the project |
+
 
 ## 👤 Author
 Name: Muthulaxmi Lakhani  
