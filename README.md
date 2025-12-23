@@ -20,7 +20,7 @@ Pandas & NumPy – Data manipulation and analysis
 
 Matplotlib & Seaborn – Data visualization
 
-Jupyter Notebook
+Google Colab Notebook
 
 📂 Dataset Description
 
