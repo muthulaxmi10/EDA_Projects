@@ -83,6 +83,7 @@ Service-wise churn analysis using multiple subplots
 The EDA reveals that contract type, tenure, and service usage are strong indicators of customer churn. These insights can help businesses design targeted strategies to improve customer retention and reduce churn.
 
 Author
+
 Muthulaxmi
 Aspiring Data Analyst | Python & Data Analytics Enthusiast
 
